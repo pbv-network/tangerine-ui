@@ -450,7 +450,7 @@
 body.app-body  {
     background-color: var(--color-bg);
     color: var(--color-fg);
-    font-family: ui-rounded, "mastodon-font-sans-serif", sans-serif;
+    font-family: ui-rounded, "mastodon-font-sans-serif", "mastodon-font-sans-serif-kr", "mastodon-font-sans-serif-jp", "mastodon-font-sans-serif-tc", "mastodon-font-sans-serif-arabic", "mastodon-font-sans-serif-devanagari", "mastodon-font-sans-serif-hebrew", "mastodon-font-sans-serif-thai", sans-serif;
 }
 
 .layout-single-column .ui::before {
