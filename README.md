@@ -100,6 +100,7 @@ This is a list of known Mastodon instances on which Tangerine UI has been instal
 | [social.vivaldi.net](https://social.vivaldi.net)           | 7K+            | an optional theme   | No                      |
 | [norden.social](https://norden.social)                     | 5K+            | an optional theme   | No                      |
 | [convo.casa](https://convo.casa)                           | 5K+            | an optional theme   | No                      |
+| [wxw.moe](https://wxw.moe)                                 | 3.5K+          | an optional theme   | No                      |
 | [c.im](https://c.im)                                       | 3.2k+          | an optional theme   | No                      |
 | [masto.es](https://masto.es)                               | 2K+            | an optional theme   | No                      |
 | [vmst.io](https://vmst.io)                                 | 2K+            | an optional theme   | No                      |
@@ -138,6 +139,7 @@ This is a list of known Mastodon instances on which Tangerine UI has been instal
 | [everythingbagel.social](https://everythingbagel.social)   | 1+             | an optional theme   | No                      |
 | [social.spicyweb.dev](https://social.spicyweb.dev)         | 1+             | the only theme      | Yes                     |
 | [e5n.cc](https://e5n.cc)                                   | 1+             | the only theme      | Yes (Lagoon)            |
+| [erica.moe](https://erica.moe)                             | 5+             | an optional theme   | Yes (Purple variant)    |
 
 ## Compatibility
 ✅ [**Tangerine UI** (v2._x_)](https://github.com/nileane/TangerineUI-for-Mastodon/releases/latest) **is compatible with instances running Mastodon 4.3 and newer.**[^3]
