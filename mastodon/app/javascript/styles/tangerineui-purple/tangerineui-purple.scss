@@ -6486,7 +6486,7 @@ a:is(.active,
 }
 
 .app-body .media-modal__overlay .picture-in-picture__footer {
-    display: none;
+    border: 0;
 }
 .app-body .media-modal__overlay .picture-in-picture__footer .icon-button > svg {
     width: 25px;
@@ -6616,7 +6616,7 @@ a:is(.active,
 }
 .app-body .picture-in-picture__footer,
 .app-body .picture-in-picture__header {
-    background-color: var(--color-content-bg);
+    background-color: transparent;
 }
 .app-body .picture-in-picture__header .display-name span {
     color: var(--color-content-fg-muted);
